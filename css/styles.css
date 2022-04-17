@@ -52,21 +52,21 @@ h3{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 400vh;
+    height: 350vh;
 }
 .imagenfondo2{
     background-image:url(../Cute-Car-Minimal-Background-HD-Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 600vh;
+    height: 450vh;
 }
 .imagenfondo3{
     background-image:url(../Cute-Car-Minimal-Background-HD-Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 525vh;
+    height: 400vh;
 }
 .imagenfondo4{
     background-image:url(../Cute-Car-Minimal-Background-HD-Wallpaper.jpg);
@@ -81,6 +81,8 @@ h3{
     background-position: center;
     background-size: cover;
     height: 230vh;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .imagenprincipal{
     display: flex;
@@ -201,6 +203,10 @@ table{
 }
 li:hover{
     transform: scale(1.6);
+}
+.padding{
+    padding-left: 6%;
+    padding-right: 6%;
 }
 
   
